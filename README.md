@@ -104,6 +104,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## <a name="links">🔗 Links</a>
+
+Assets used in the project can be found [here](https://drive.google.com/file/d/1TVhdnD97LajGsyaiNa6sDs-ap-z1oerA/view?usp=sharing)
+
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
@@ -1572,6 +1576,3 @@ export const Category = ({ category }: CategoryProps) => {
 ```
 
 </details>
-## <a name="links">🔗 Links</a>
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/1TVhdnD97LajGsyaiNa6sDs-ap-z1oerA/view?usp=sharing)
